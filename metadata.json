@@ -1,0 +1,4 @@
+{
+  "name": "Scroll-Driven Video Story",
+  "description": "A smooth, scroll-controlled video playback experience using decoupled rendering loops and seeking guards for optimal performance."
+}
