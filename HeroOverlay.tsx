@@ -1,5 +1,5 @@
 import React from 'react';
-import { SectionProps } from '../types';
+import { SectionProps } from './types';
 import { BookOpen, Sparkles, Feather, Bookmark } from 'lucide-react';
 
 const StorySection: React.FC<SectionProps & { icon: React.ReactNode }> = ({ 
