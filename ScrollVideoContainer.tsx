@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
-import { ScrollVideoProps } from '../types';
+import { ScrollVideoProps } from './types';
 import { Loader2 } from 'lucide-react';
 
 export const ScrollVideoContainer: React.FC<ScrollVideoProps> = ({ 
