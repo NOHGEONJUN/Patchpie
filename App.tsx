@@ -1,7 +1,7 @@
 import React from 'react';
-import { ScrollVideoContainer } from './components/ScrollVideoContainer';
-import { HeroOverlay } from './components/HeroOverlay';
-import { Navbar } from './components/Navbar';
+import { ScrollVideoContainer } from './ScrollVideoContainer';
+import { HeroOverlay } from './HeroOverlay';
+import { Navbar } from './Navbar';
 
 const App: React.FC = () => {
   return (
